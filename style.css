@@ -45,17 +45,7 @@ body{
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
 }
-.start-header.scroll-on {
-	box-shadow: 0 5px 10px 0 rgba(138, 155, 165, 0.15);
-	padding: 10px 0;
-	-webkit-transition : all 0.3s ease-out;
-	transition : all 0.3s ease-out;
-}
-.start-header.scroll-on .navbar-brand img{
-	height: 24px;
-	-webkit-transition : all 0.3s ease-out;
-	transition : all 0.3s ease-out;
-}
+
 .navigation-wrap{
 	position: fixed;
 	width: 100%;
